@@ -6,5 +6,5 @@
 -📫 my insta id : __.anushka._.22
     my LinkedIn profile:https://www.linkedin.com/in/anushka-kesarwani-a17a19328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am also learning German.
+- ⚡ Fun fact: I am also learning German😊
 
