@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anushka22-lab
 - 👀 I’m interested in upgrading my knowledge and skills.
-- 🌱 I’m currently pursuing CSE in KIET Ghaziabad.
+- 🌱 I’m currently pursuing Btech CSE in KIET Ghaziabad.
 - 💞️ I’m looking to collaborate on various new projects and build new connections with the
 - exciting people on this platform.
 -📫 my insta id : __.anushka._.22
