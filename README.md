@@ -1,6 +1,6 @@
 # Hi, I'm Anushka Kesarwani 👋  
 
-🌸 *"Crafting code with curiosity and a pinch of creativity."* ✨  
+🌸 Crafting code with curiosity and a pinch of creativity.✨  
 
 I’m a B.Tech student who loves exploring **Web Development** and **Competitive Programming**.  
 From solving tricky **DSA problems** to bringing ideas to life with **MERN stack apps**, I enjoy building things that are both smart and user-friendly 🚀  
@@ -35,6 +35,6 @@ From solving tricky **DSA problems** to bringing ideas to life with **MERN stack
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka22-lab&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anushka22-lab&theme=tokyonight)  
 
-💌 *Always open to collaborating on cool projects or just geeking out over tech.* 🚀
+
 
 💌 *Always open to collaborating on cool projects or just geeking out over tech.* 🚀  
